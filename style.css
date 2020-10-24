@@ -1,0 +1,65 @@
+body {
+	background: black;
+	color: purple;
+}
+
+nav ul li {
+	display: inline-block;
+	text-decoration: none;
+
+}
+
+ ul li a {
+	color: grey;
+	padding: 10px;
+	margin: 30px 0 0 0;
+	font-size: 20px;
+}
+
+ul li a:hover {
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	margin: 30px 0 0 0;
+	font-size: 20px;
+}
+.active{
+	border: 1px solid #ccccd2;
+	background: #ccccd2;
+}
+h1 {
+	text-align: center;
+}
+
+#bread_crumb {
+	text-align: center;
+}
+#bread_crumb a {
+	color: red;
+}
+
+.info {
+	text-align: center;
+	color: white;
+}
+
+.bio {
+	text-align: center;
+	color: white;
+}
+
+.list1 {
+	text-align: center;
+}
+
+.contact {
+	text-align: center;
+}
+
+#logo{
+	text-align: center;
+	margin: 10px 20px 0 20px;
+	padding: 10 20px 0 20px;
+	
+
+}
